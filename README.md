@@ -1,7 +1,6 @@
 <!-- Animated Background -->
 <div align="center">
 
-## 🌌 Animated Intro
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Frontend+Developer+%F0%9F%9A%80;Creative+Web+Designer+%F0%9F%8E%A8;UI%2FUX+Enthusiast+✨;Building+Amazing+Websites+💻)](https://git.io/typing-svg)
 
@@ -13,7 +12,7 @@
 <div align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35">
-    Salom, Men Begzodbek
+    Salom, Men Begzod Rashidov 
   </h1>
   
   <p>
